@@ -1,0 +1,25 @@
+body{
+    display: grid;
+    margin: auto;
+    border-style: double;
+    border: 25%;
+    text-align: center;
+    background-image: url(feu_image.jpg);
+    background-size: 100% 400%;
+
+
+}
+
+
+.FormText{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: wheat;
+}
+
+.RadioOptions{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: wheat;
+}
+
